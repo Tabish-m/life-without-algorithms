@@ -1,0 +1,24 @@
+{
+  "overview": "An immersive, dark-themed interactive website that simulates a world without algorithms — featuring random social feeds, shopping, music generation, a decision game, and a thought-provoking insight section.",
+  "features": [
+    "Animated hero with procedural particle background",
+    "Randomized social media feed that reshuffles on every reload",
+    "Random shopping section with 'Show Something Else' button",
+    "Procedural music generator with genre, artist, and song randomization",
+    "Blind choice decision simulator game",
+    "Insight section on algorithms and daily life",
+    "Glitch effects, neon accents, and smooth micro-interactions"
+  ],
+  "category": "showcase",
+  "tags": [
+    "dark-theme",
+    "interactive",
+    "randomness",
+    "algorithms",
+    "showcase",
+    "animation",
+    "glitch",
+    "neon"
+  ],
+  "last_updated": "2026-04-10T06:38:12.008Z"
+}
